@@ -1,0 +1,18 @@
+.title {
+  background-color:ORANGE;
+  color:white;
+  max width:600px;
+  margin:0 auto;
+  text-align:center;
+  padding:40px;
+  border radius:10px;
+  box-shadow:15px 10px white
+  }
+body {
+  background-color: #ff08;
+  color: #000;
+  font-size: 15px;
+}
+p {
+  font-family:"verdana", sans-serif
+}
